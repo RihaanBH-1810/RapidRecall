@@ -8,4 +8,4 @@
 * Tapping on the tile will take the user to a flashcard view page,you can tap on the flascard to view the answer.
 * You can swipe through the flashcards.
 
-
+** A screen-recording of the app has been added in the recording folder
